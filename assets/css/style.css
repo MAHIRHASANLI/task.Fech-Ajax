@@ -1,0 +1,24 @@
+.bg-img{
+    background-image: url(https://www.azernews.az/media/pictures/635922263662673154454201678_film.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 0px;
+    }
+   
+.cod{
+    margin-top:25px;
+    gap: 5px;
+   
+}
+.films{margin-top:60px;
+    color: white}
+.inital{
+    margin-top:40px;
+}
+.dataname{
+    margin-top:30px; 
+}
+.dataimg{
+    margin-top:25px;
+}
